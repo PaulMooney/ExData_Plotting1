@@ -1,4 +1,4 @@
-#To be run from the orking directory with a Data subfolder holding the
+#To be run from the working directory with a Data subfolder holding the
 #household_power_consumption.txt data file.
 
 #Load the data
